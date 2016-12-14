@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o Signal_map.ncd Signal.ngd Signal.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o Signal_map.ncd Signal.ngd Signal.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o Signal_map.ncd Signal.ngd Signal.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o Signal_map.ncd Signal.ngd Signal.pcf 
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-ft256-5 Signal.ngc Signal.ngd  
+xst -intstyle ise -ifn "C:/Users/Rafael/VGA-SIGNAL/Signal.xst" -ofn "C:/Users/Rafael/VGA-SIGNAL/Signal.syr" 

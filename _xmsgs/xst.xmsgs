@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLCompilers" num="207" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 23 </arg>Signal &apos;<arg fmt="%s" index="2">rojo</arg>&apos; is not referenced in the module port list
+</msg>
+
+<msg type="error" file="HDLCompilers" num="207" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 24 </arg>Signal &apos;<arg fmt="%s" index="2">verde</arg>&apos; is not referenced in the module port list
+</msg>
+
+<msg type="error" file="HDLCompilers" num="207" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 25 </arg>Signal &apos;<arg fmt="%s" index="2">azul</arg>&apos; is not referenced in the module port list
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 32 </arg>&apos;<arg fmt="%s" index="2">red</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 32 </arg>&apos;<arg fmt="%s" index="2">green</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 32 </arg>&apos;<arg fmt="%s" index="2">blue</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 38 </arg>&apos;<arg fmt="%s" index="2">rojo</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 38 </arg>&apos;<arg fmt="%s" index="2">verde</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="28" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 38 </arg>&apos;<arg fmt="%s" index="2">azul</arg>&apos; has not been declared
+</msg>
+
+<msg type="error" file="HDLCompilers" num="208" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 11 </arg>Port reference &apos;<arg fmt="%s" index="2">blue</arg>&apos; was not declared as input, inout or output
+</msg>
+
+<msg type="error" file="HDLCompilers" num="208" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 10 </arg>Port reference &apos;<arg fmt="%s" index="2">green</arg>&apos; was not declared as input, inout or output
+</msg>
+
+<msg type="error" file="HDLCompilers" num="208" delta="new" ><arg fmt="%s" index="1">&quot;Signal.v&quot; line 9 </arg>Port reference &apos;<arg fmt="%s" index="2">red</arg>&apos; was not declared as input, inout or output
+</msg>
+
+</messages>
+
